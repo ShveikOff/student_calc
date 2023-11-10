@@ -1,0 +1,51 @@
+124,Principles of Marketing I,7
+114,Psychology I,3
+145,Business Finance I,6
+133,Environmental Science II,8
+110,Art History II,4
+140,Data Structures and Algorithmsy III,8
+131,Organic Chemistry III,4
+137,Human Anatomy II,3
+138,Data Structures and Algorithmsy I,8
+127,Principles of Economics I,6
+116,Calculus II,7
+106,Discrete Math II,8
+117,Calculus III,7
+151,Fundamentals of Web Development III,8
+119,Economics I,4
+142,Comparative Politics I,5
+125,Principles of Marketing II,7
+128,Principles of Economics II,6
+135,Environmental Science IV,8
+118,Calculus IV,7
+122,Microeconomics I,5
+121,Elementary Spanish,2
+136,Human Anatomy I,3
+149,Fundamentals of Web Development I,8
+139,Data Structures and Algorithmsy II,8
+115,Calculus I,7
+104,Statistics IV,6
+101,Statistics I,6
+132,Environmental Science I,8
+102,Statistics II,6
+146,Business Finance II,6
+134,Environmental Science III,8
+141,Data Structures and Algorithmsy IV,8
+129,Organic Chemistry I,4
+144,Comparative Politics III,5
+112,World History II,2
+123,Microeconomics II,5
+109,Art History I,4
+107,Discrete Math III,8
+130,Organic Chemistry II,4
+103,Statistics III,6
+147,International Relations,3
+105,Discrete Math I,8
+150,Fundamentals of Web Development II,8
+111,World History I,2
+148,Creative Writing Workshop,6
+120,Economics II,4
+126,Principles of Marketing III,7
+108,Discrete Math IV,8
+143,Comparative Politics II,5
+113,Psychology II,3
